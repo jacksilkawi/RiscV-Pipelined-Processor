@@ -1,4 +1,4 @@
-# CA2 RISC-V Processor Project
+# RISC-V Processor Project
 
 This repository contains the full implementation of the Computer Architecture (2) final project.
 
